@@ -1,10 +1,10 @@
-# 🚀 SitemapXtractor
+#  SitemapXtractor
 
 A powerful Python CLI tool to download, decompress, and extract structured data from `.xml.gz` sitemap files.
 
 ---
 
-## 🔥 Features
+##  Features
 
 * ✅ Download sitemap directly from URL
 * ✅ Supports `.xml.gz` compressed files
