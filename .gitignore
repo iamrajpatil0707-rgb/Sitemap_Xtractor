@@ -1,0 +1,4 @@
+*.txt
+*.gz
+__pycache__/
+*.pyc
